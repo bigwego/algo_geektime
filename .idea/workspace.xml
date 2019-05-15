@@ -2,9 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12c0ace-6b02-4d08-81d6-499ed0ef2c38" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/saveactions_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/array/Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java/array/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/backtracking/EightQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/backtracking/RegexMatching.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/backtracking/ZeroOnePack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/binarysearch/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/binarysearch/FindSqrtWithPrecision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/binarytree/BinarySearchTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/dynamicprogramming/EditDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/dynamicprogramming/LongestCommonSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/dynamicprogramming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/dynamicprogramming/MinimumCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/dynamicprogramming/ZeroOnePack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/graph/Graph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/heap/Heap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/linkedlist/LRUBaseLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/linkedlist/LinkedListAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/linkedlist/SinglyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/queue/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/queue/CircleArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/sort/CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/sort/KthSmallest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/sort/Sorts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/stack/ArrayStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/stack/LinkedListStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/stringmatching/ACAutomation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java/stringmatching/KMP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,37 +43,73 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="algo_geektime" />
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/java/array/Array.java">
+        <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/ZeroOnePack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="871">
-              <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+            <state relative-caret-position="139">
+              <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/MinimumCoins.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+              <folding>
+                <element signature="e#1118#1119#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/EditDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="305">
+              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/LongestCommonSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+              <folding>
+                <element signature="e#643#644#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/LongestIncreasingSubsequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/java/array/GenericArray.java">
+        <entry file="file://$PROJECT_DIR$/java/graph/Graph.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="730">
-              <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+            <state relative-caret-position="612">
+              <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
               <folding>
-                <element signature="e#237#238#0" expanded="true" />
-                <element signature="e#256#257#0" expanded="true" />
-                <element signature="e#323#324#0" expanded="true" />
-                <element signature="e#376#377#0" expanded="true" />
-                <element signature="e#422#423#0" expanded="true" />
-                <element signature="e#448#449#0" expanded="true" />
-                <element signature="e#1125#1126#0" expanded="true" />
-                <element signature="e#1146#1147#0" expanded="true" />
-                <element signature="e#1182#1183#0" expanded="true" />
-                <element signature="e#1203#1204#0" expanded="true" />
-                <element signature="e#1603#1604#0" expanded="true" />
-                <element signature="e#1624#1625#0" expanded="true" />
-                <element signature="e#1661#1662#0" expanded="true" />
-                <element signature="e#1682#1683#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,6 +124,14 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>head</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>curr</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -72,6 +140,35 @@
       <list>
         <option value="$PROJECT_DIR$/java/array/Array.java" />
         <option value="$PROJECT_DIR$/java/array/GenericArray.java" />
+        <option value="$PROJECT_DIR$/java/linkedlist/SinglyLinkedList.java" />
+        <option value="$PROJECT_DIR$/java/linkedlist/LinkedListAlgo.java" />
+        <option value="$PROJECT_DIR$/java/stack/ArrayStack.java" />
+        <option value="$PROJECT_DIR$/java/stack/LinkedListStack.java" />
+        <option value="$PROJECT_DIR$/java/queue/ArrayQueue.java" />
+        <option value="$PROJECT_DIR$/java/queue/CircleArrayQueue.java" />
+        <option value="$PROJECT_DIR$/java/sort/Sorts.java" />
+        <option value="$PROJECT_DIR$/java/sort/KthSmallest.java" />
+        <option value="$PROJECT_DIR$/java/sort/CountingSort.java" />
+        <option value="$PROJECT_DIR$/java/binarysearch/FindSqrtWithPrecision.java" />
+        <option value="$PROJECT_DIR$/java/binarysearch/BinarySearch.java" />
+        <option value="$PROJECT_DIR$/java/linkedlist/LRUBaseLinkedList.java" />
+        <option value="$PROJECT_DIR$/java/LRULinkedList.java" />
+        <option value="$PROJECT_DIR$/java/Solution.java" />
+        <option value="$PROJECT_DIR$/java/binarytree/BinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/java/heap/Heap.java" />
+        <option value="$PROJECT_DIR$/java/stringmatching/KMP.java" />
+        <option value="$PROJECT_DIR$/java/stringmatching/AcAutomation.java" />
+        <option value="$PROJECT_DIR$/java/stringmatching/ACAutomation.java" />
+        <option value="$PROJECT_DIR$/java/backtracking/EightQueens.java" />
+        <option value="$PROJECT_DIR$/java/backtracking/ZeroOnePack.java" />
+        <option value="$PROJECT_DIR$/java/backtracking/RegexMatching.java" />
+        <option value="$PROJECT_DIR$/java/dynamicprogramming.java" />
+        <option value="$PROJECT_DIR$/java/dynamicprogramming/ZeroOnePack.java" />
+        <option value="$PROJECT_DIR$/java/dynamicprogramming/MinimumCoins.java" />
+        <option value="$PROJECT_DIR$/java/dynamicprogramming/EditDistance.java" />
+        <option value="$PROJECT_DIR$/java/dynamicprogramming/LongestCommonSubsequence.java" />
+        <option value="$PROJECT_DIR$/java/dynamicprogramming/LongestIncreasingSubsequence.java" />
+        <option value="$PROJECT_DIR$/java/graph/Graph.java" />
       </list>
     </option>
   </component>
@@ -84,6 +181,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,20 +200,86 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="backtracking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="binarysearch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="binarytree" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="dynamicprogramming" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="graph" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="heap" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="linkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="queue" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stack" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="algo_geektime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algo_geektime" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="stringmatching" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,6 +293,52 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="Application.LongestIncreasingSubsequence">
+    <configuration name="LongestCommonSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.LongestCommonSubsequence" />
+      <module name="algo_geektime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.LongestIncreasingSubsequence" />
+      <module name="algo_geektime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumCoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.MinimumCoins" />
+      <module name="algo_geektime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RegexMatching" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="backtracking.RegexMatching" />
+      <module name="algo_geektime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroOnePack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dynamicprogramming.ZeroOnePack" />
+      <module name="algo_geektime" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestIncreasingSubsequence" />
+        <item itemvalue="Application.LongestCommonSubsequence" />
+        <item itemvalue="Application.MinimumCoins" />
+        <item itemvalue="Application.ZeroOnePack" />
+        <item itemvalue="Application.RegexMatching" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="f12c0ace-6b02-4d08-81d6-499ed0ef2c38" name="Default Changelist" comment="" />
@@ -136,40 +346,67 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556231755505</updated>
-      <workItem from="1556231758541" duration="1874000" />
+      <workItem from="1556231758541" duration="6642000" />
+      <workItem from="1556241514678" duration="7516000" />
+      <workItem from="1556258932034" duration="13000" />
+      <workItem from="1556258970075" duration="33000" />
+      <workItem from="1556259046294" duration="21000" />
+      <workItem from="1556259082977" duration="19000" />
+      <workItem from="1556259144094" duration="14000" />
+      <workItem from="1556259171200" duration="2042000" />
+      <workItem from="1556270058605" duration="23000" />
+      <workItem from="1556318391886" duration="2110000" />
+      <workItem from="1556333332423" duration="4361000" />
+      <workItem from="1556339821927" duration="10000" />
+      <workItem from="1556339846215" duration="107000" />
+      <workItem from="1556340012014" duration="57000" />
+      <workItem from="1556340122740" duration="49000" />
+      <workItem from="1556340226728" duration="25000" />
+      <workItem from="1556340263916" duration="12000" />
+      <workItem from="1556340285094" duration="5522000" />
+      <workItem from="1556411908923" duration="4292000" />
+      <workItem from="1556430836891" duration="3721000" />
+      <workItem from="1556451269354" duration="476000" />
+      <workItem from="1556506953845" duration="32000" />
+      <workItem from="1556507025130" duration="308000" />
+      <workItem from="1556507367991" duration="8335000" />
+      <workItem from="1556541622467" duration="33000" />
+      <workItem from="1556544125012" duration="1424000" />
+      <workItem from="1556578871725" duration="4921000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1874000" />
+    <option name="totallyTimeSpent" value="52118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49879518" visible="true" weight="0.2653791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Problems" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Favorites" order="3" sideWeight="0.50120485" side_tool="true" weight="0.23748212" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Problems" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32891566" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,32 +416,248 @@
     <entry file="file://$PROJECT_DIR$/algo_geektime.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/java/array/Array.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/queue/CircleArrayQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="871">
-          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        <state relative-caret-position="114">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/queue/ArrayQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/java/array/GenericArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="91" column="32" selection-start-line="91" selection-start-column="32" selection-end-line="91" selection-end-column="32" />
+        <state relative-caret-position="745">
+          <caret line="92" column="24" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
           <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
             <element signature="e#323#324#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
             <element signature="e#376#377#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#448#449#0" expanded="true" />
-            <element signature="e#1125#1126#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
-            <element signature="e#1182#1183#0" expanded="true" />
-            <element signature="e#1203#1204#0" expanded="true" />
             <element signature="e#1603#1604#0" expanded="true" />
-            <element signature="e#1624#1625#0" expanded="true" />
-            <element signature="e#1661#1662#0" expanded="true" />
-            <element signature="e#1682#1683#0" expanded="true" />
+            <element signature="e#1635#1636#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/array/Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/stack/LinkedListStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/sort/KthSmallest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/binarysearch.java" />
+    <entry file="file://$PROJECT_DIR$/java/binarysearch/BinarySearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="45" column="28" lean-forward="true" selection-start-line="45" selection-start-column="28" selection-end-line="45" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/binarysearch/FindSqrtWithPrecision.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+          <folding>
+            <element signature="e#649#650#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/stack/ArrayStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/sort/CountingSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/sort/Sorts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="106" column="16" selection-start-line="106" selection-start-column="16" selection-end-line="106" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/linkedlist/LRUBaseLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="28" selection-end-line="53" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/linkedlist/SinglyLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="463">
+          <caret line="175" column="9" selection-start-line="175" selection-start-column="9" selection-end-line="175" selection-end-column="9" />
+          <folding>
+            <element signature="e#4894#4895#0" expanded="true" />
+            <element signature="e#4929#4930#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/binarytree/BinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="e#2014#2015#0" expanded="true" />
+            <element signature="e#2048#2049#0" expanded="true" />
+            <element signature="e#3001#3002#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/linkedlist/LinkedListAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1729">
+          <caret line="91" column="18" selection-start-line="91" selection-start-column="18" selection-end-line="91" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="59" column="5" lean-forward="true" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/backtracking/ZeroOnePack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#204#205#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/backtracking/EightQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/stringmatching/ACAutomation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="13" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/stringmatching/KMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="4" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/heap/Heap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/backtracking/RegexMatching.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/dynamicprogramming.java" />
+    <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/ZeroOnePack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="11" column="80" selection-start-line="11" selection-start-column="80" selection-end-line="11" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/MinimumCoins.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="46" column="53" selection-start-line="46" selection-start-column="53" selection-end-line="46" selection-end-column="53" />
+          <folding>
+            <element signature="e#1118#1119#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/EditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/LongestCommonSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="23" column="67" selection-start-line="23" selection-start-column="67" selection-end-line="23" selection-end-column="67" />
+          <folding>
+            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/dynamicprogramming/LongestIncreasingSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="92" selection-start-line="19" selection-start-column="92" selection-end-line="19" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/java/graph/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="51" column="8" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
           </folding>
         </state>
       </provider>
